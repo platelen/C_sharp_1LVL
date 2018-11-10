@@ -62,7 +62,6 @@ namespace Menu
         static void Main(string[] args)
         {
             Menu();
-            myClass.Pause();
         }
 
    }
